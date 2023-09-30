@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smoaking90
-- 👀 I’m interested in learning the basics of coding
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 👀 I’m learning programming.
+- 🌱 I’m currently learning PHP
 
 
 <!---
